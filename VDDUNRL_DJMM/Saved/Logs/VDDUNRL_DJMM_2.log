@@ -522,6 +522,7 @@ LogInit: Object subsystem initialized
 [2018.07.25-17.43.13:365][499]LogSavePackage: Save=147.67ms
 [2018.07.25-17.43.13:366][499]LogSavePackage: Moving '../../../../School/Unreal Project/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Level_001EEA0A58425AE282440661830EABADE7.tmp' to '../../../../School/Unreal Project/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScrollerBP/Maps/Level_00.umap'
 [2018.07.25-17.43.13:372][499]LogSavePackage: Display: Finished SavePackage ../../../../School/Unreal Project/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScrollerBP/Maps/Level_00.umap
+<<<<<<< HEAD
 [2018.07.25-17.44.25:956][895]AssetReimport: New page: Outstanding source content changes 9:44:25 AM
 [2018.07.25-17.44.26:670][896]LogEditorFactories: Performing atomic reimport of [D:/School/Unreal Project/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/flare.png]
 [2018.07.25-17.44.26:672][896]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/School/Unreal Project/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/flare.png)
@@ -860,3 +861,5 @@ LogInit: Object subsystem initialized
 [2018.07.25-17.44.34:079][ 80]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2018.07.25-17.44.34:086][ 80]LogExit: Exiting.
 [2018.07.25-17.44.34:100][ 80]Log file closed, 07/25/18 13:44:34
+=======
+>>>>>>> Teleporting/SideScroll
