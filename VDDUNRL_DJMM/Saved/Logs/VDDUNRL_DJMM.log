@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 08/02/18 12:51:01
+=======
+﻿Log file open, 07/30/18 14:30:51
+>>>>>>> parent of cf0f4c2... Merge branch 'Alpha' into DJMM-Chrisj
 =======
 ﻿Log file open, 07/30/18 14:30:51
 >>>>>>> parent of cf0f4c2... Merge branch 'Alpha' into DJMM-Chrisj
@@ -17,7 +21,11 @@ LogInit: Display: Running engine for game: VDDUNRL_DJMM
 LogPlatformFile: Not using cached read wrapper
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogInit: Display: RandInit(136738680) SRandInit(136738680).
+=======
+LogInit: Display: RandInit(715730868) SRandInit(715730868).
+>>>>>>> parent of cf0f4c2... Merge branch 'Alpha' into DJMM-Chrisj
 =======
 LogInit: Display: RandInit(715730868) SRandInit(715730868).
 >>>>>>> parent of cf0f4c2... Merge branch 'Alpha' into DJMM-Chrisj
@@ -30,7 +38,11 @@ LogInit: Registered custom module enumerator with build ID '3944462'
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogStats: Stats thread started at 0.279088
+=======
+LogStats: Stats thread started at 0.284110
+>>>>>>> parent of cf0f4c2... Merge branch 'Alpha' into DJMM-Chrisj
 =======
 LogStats: Stats thread started at 0.284110
 >>>>>>> parent of cf0f4c2... Merge branch 'Alpha' into DJMM-Chrisj
@@ -194,7 +206,11 @@ LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogStreaming: Display: Took  1.352s to configure plugins.
+=======
+LogStreaming: Display: Took  1.322s to configure plugins.
+>>>>>>> parent of cf0f4c2... Merge branch 'Alpha' into DJMM-Chrisj
 =======
 LogStreaming: Display: Took  1.322s to configure plugins.
 >>>>>>> parent of cf0f4c2... Merge branch 'Alpha' into DJMM-Chrisj
@@ -254,6 +270,7 @@ LogInit: Installed Engine Build: 1
 LogStreaming: Display: Took  0.002s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 [2018.08.02-16.51.03:429][  0]LogInit: Selected Device Profile: [Windows]
@@ -923,6 +940,8 @@ LogInit: Object subsystem initialized
 =======
 =======
 >>>>>>> parent of cf0f4c2... Merge branch 'Alpha' into DJMM-Chrisj
+=======
+>>>>>>> parent of cf0f4c2... Merge branch 'Alpha' into DJMM-Chrisj
 [2018.07.30-18.30.52:968][  0]LogInit: Selected Device Profile: [Windows]
 [2018.07.30-18.30.52:968][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
 [2018.07.30-18.30.52:982][  0]LogInit: Computer: DESKTOP-0HB3LSQ
@@ -1569,6 +1588,9 @@ LogInit: Object subsystem initialized
 [2018.07.30-18.32.12:938][492]LogExit: Exiting.
 [2018.07.30-18.32.12:959][492]Log file closed, 07/30/18 14:32:12
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of cf0f4c2... Merge branch 'Alpha' into DJMM-Chrisj
+=======
 >>>>>>> parent of cf0f4c2... Merge branch 'Alpha' into DJMM-Chrisj
 =======
 >>>>>>> parent of cf0f4c2... Merge branch 'Alpha' into DJMM-Chrisj
