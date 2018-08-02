@@ -75,3 +75,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+VDDUNRL_DJMM/Saved/AutoScreenshot.png
+VDDUNRL_DJMM/Saved/Autosaves/*
+VDDUNRL_DJMM/Intermediate/*
+*.ini
+
+*.log
+VDDUNRL_DJMM/Content/2DSideScrollerBP/Maps/Level_00.umap
+VDDUNRL_DJMM/Intermediate/CachedAssetRegistry.bin
