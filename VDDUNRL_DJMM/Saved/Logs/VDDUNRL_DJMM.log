@@ -3,7 +3,6 @@
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 ﻿Log file open, 08/02/18 12:51:01
 =======
 ﻿Log file open, 07/30/18 14:30:51
@@ -14,6 +13,9 @@
 =======
 ﻿Log file open, 07/30/18 14:30:51
 >>>>>>> parent of cf0f4c2... Merge branch 'Alpha' into DJMM-Chrisj
+<<<<<<< HEAD
+>>>>>>> parent of dbf2181... Merge branch 'Alpha' into DJMM-Chrisj
+=======
 >>>>>>> parent of dbf2181... Merge branch 'Alpha' into DJMM-Chrisj
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
@@ -28,7 +30,6 @@ LogInit: Display: RandInit(1526142893) SRandInit(1526142894).
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 LogInit: Display: RandInit(136738680) SRandInit(136738680).
 =======
 LogInit: Display: RandInit(715730868) SRandInit(715730868).
@@ -39,6 +40,9 @@ LogInit: Display: RandInit(715730868) SRandInit(715730868).
 =======
 LogInit: Display: RandInit(715730868) SRandInit(715730868).
 >>>>>>> parent of cf0f4c2... Merge branch 'Alpha' into DJMM-Chrisj
+<<<<<<< HEAD
+>>>>>>> parent of dbf2181... Merge branch 'Alpha' into DJMM-Chrisj
+=======
 >>>>>>> parent of dbf2181... Merge branch 'Alpha' into DJMM-Chrisj
 LogInit: Read version file with build ID '3944462'
 LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
@@ -47,7 +51,6 @@ LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 
 <<<<<<< HEAD
 LogStats: Stats thread started at 0.287614
 =======
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 LogStats: Stats thread started at 0.279088
@@ -60,6 +63,9 @@ LogStats: Stats thread started at 0.284110
 =======
 LogStats: Stats thread started at 0.284110
 >>>>>>> parent of cf0f4c2... Merge branch 'Alpha' into DJMM-Chrisj
+<<<<<<< HEAD
+>>>>>>> parent of dbf2181... Merge branch 'Alpha' into DJMM-Chrisj
+=======
 >>>>>>> parent of dbf2181... Merge branch 'Alpha' into DJMM-Chrisj
 LogD3D11RHI: Aftermath initialized
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
@@ -221,7 +227,6 @@ LogStreaming: Display: Took  1.354s to configure plugins.
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 LogStreaming: Display: Took  1.352s to configure plugins.
 =======
 LogStreaming: Display: Took  1.322s to configure plugins.
@@ -232,6 +237,9 @@ LogStreaming: Display: Took  1.322s to configure plugins.
 =======
 LogStreaming: Display: Took  1.322s to configure plugins.
 >>>>>>> parent of cf0f4c2... Merge branch 'Alpha' into DJMM-Chrisj
+<<<<<<< HEAD
+>>>>>>> parent of dbf2181... Merge branch 'Alpha' into DJMM-Chrisj
+=======
 >>>>>>> parent of dbf2181... Merge branch 'Alpha' into DJMM-Chrisj
 LogInit: Using libcurl 7.47.1
 LogInit:  - built for x86_64-pc-win32
@@ -815,7 +823,6 @@ LogInit: Object subsystem initialized
 [2018.08.02-18.18.11:876][411]LogExit: Exiting.
 [2018.08.02-18.18.11:903][411]Log file closed, 08/02/18 14:18:11
 =======
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 [2018.08.02-16.51.03:429][  0]LogInit: Selected Device Profile: [Windows]
@@ -2139,4 +2146,7 @@ LogInit: Object subsystem initialized
 >>>>>>> parent of cf0f4c2... Merge branch 'Alpha' into DJMM-Chrisj
 =======
 >>>>>>> parent of cf0f4c2... Merge branch 'Alpha' into DJMM-Chrisj
+<<<<<<< HEAD
+>>>>>>> parent of dbf2181... Merge branch 'Alpha' into DJMM-Chrisj
+=======
 >>>>>>> parent of dbf2181... Merge branch 'Alpha' into DJMM-Chrisj
