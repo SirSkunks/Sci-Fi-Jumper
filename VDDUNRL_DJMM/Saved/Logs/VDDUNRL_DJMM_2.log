@@ -434,3 +434,164 @@ LogInit: Object subsystem initialized
 [2018.08.02-18.43.37:012][  1]LogAssetRegistry: Asset discovery search completed in 7.4388 seconds
 [2018.08.02-18.43.37:014][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2018.08.02-18.43.37:014][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000081 seconds (updated 0 objects)
+[2018.08.02-18.43.51:750][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-18.43.51:874][133]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.02-18.43.51:951][133]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220d4799a80, Size=288, Default__2DSideScrollerCharacter_C Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter
+[2018.08.02-18.43.51:956][133]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000220d4799a80, Size=288
+[2018.08.02-18.43.51:956][133]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220d4799a80, Size=288, Default__2DSideScrollerCharacter_C Function /Engine/Transient.REINST_2DSideScrollerCharacter_C_3:ExecuteUbergraph_2DSideScrollerCharacter
+[2018.08.02-18.43.51:962][133]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220d4798b80, Size=288, Default__2DSideScrollerCharacter_C Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter
+[2018.08.02-18.43.51:971][133]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220e29aa8d0, Size=12, Default__2DSideScrollerGameMode_C Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C:ExecuteUbergraph_2DSideScrollerGameMode
+[2018.08.02-18.43.51:971][133]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220e29aa8c0, Size=16, Default__GameHUD_C Function /Game/2DSideScrollerBP/Blueprints/GameHUD.GameHUD_C:ExecuteUbergraph_GameHUD
+[2018.08.02-18.43.51:973][133]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220e25d6600, Size=64, Default__UI_InGame_C Function /Game/2DSideScrollerBP/Blueprints/UI_InGame.UI_InGame_C:ExecuteUbergraph_UI_InGame
+[2018.08.02-18.43.51:988][133]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000220e29aa8c0, Size=16
+[2018.08.02-18.43.51:988][133]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220e29aa8c0, Size=16, Default__GameHUD_C Function /Engine/Transient.REINST_GameHUD_C_5:ExecuteUbergraph_GameHUD
+[2018.08.02-18.43.51:989][133]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000220e29aa8d0, Size=12
+[2018.08.02-18.43.51:989][133]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220e29aa8d0, Size=12, Default__2DSideScrollerGameMode_C Function /Engine/Transient.REINST_2DSideScrollerGameMode_C_6:ExecuteUbergraph_2DSideScrollerGameMode
+[2018.08.02-18.43.51:990][133]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000220e25d6600, Size=64
+[2018.08.02-18.43.51:990][133]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220e2563740, Size=64, Default__UI_InGame_C Function /Engine/Transient.REINST_UI_InGame_C_0:ExecuteUbergraph_UI_InGame
+[2018.08.02-18.43.51:995][133]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220e29a8840, Size=16, Default__GameHUD_C Function /Game/2DSideScrollerBP/Blueprints/GameHUD.GameHUD_C:ExecuteUbergraph_GameHUD
+[2018.08.02-18.43.51:996][133]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220e29aaf80, Size=12, Default__2DSideScrollerGameMode_C Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C:ExecuteUbergraph_2DSideScrollerGameMode
+[2018.08.02-18.43.51:997][133]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220e2560300, Size=64, Default__UI_InGame_C Function /Game/2DSideScrollerBP/Blueprints/UI_InGame.UI_InGame_C:ExecuteUbergraph_UI_InGame
+[2018.08.02-18.43.52:017][133]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220e258f580, Size=360, Default__BP_Platform_Point_C Function /Game/2DSideScrollerBP/Blueprints/BP_Platform_Point.BP_Platform_Point_C:ExecuteUbergraph_BP_Platform_Point
+[2018.08.02-18.43.52:021][133]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000220e258f580, Size=360
+[2018.08.02-18.43.52:021][133]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220d052a680, Size=360, Default__BP_Platform_Point_C Function /Engine/Transient.REINST_BP_Platform_Point_C_15:ExecuteUbergraph_BP_Platform_Point
+[2018.08.02-18.43.52:022][133]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220d0506c80, Size=360, Default__BP_Platform_Point_C Function /Game/2DSideScrollerBP/Blueprints/BP_Platform_Point.BP_Platform_Point_C:ExecuteUbergraph_BP_Platform_Point
+[2018.08.02-18.43.52:029][133]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220cf44f340, Size=164, Default__BP_Platform_Rotate_C Function /Game/2DSideScrollerBP/Blueprints/BP_Platform_Rotate.BP_Platform_Rotate_C:ExecuteUbergraph_BP_Platform_Rotate
+[2018.08.02-18.43.52:030][133]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000220cf44f340, Size=164
+[2018.08.02-18.43.52:030][133]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220cf44f340, Size=164, Default__BP_Platform_Rotate_C Function /Engine/Transient.REINST_BP_Platform_Rotate_C_17:ExecuteUbergraph_BP_Platform_Rotate
+[2018.08.02-18.43.52:031][133]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220cf44cc40, Size=164, Default__BP_Platform_Rotate_C Function /Game/2DSideScrollerBP/Blueprints/BP_Platform_Rotate.BP_Platform_Rotate_C:ExecuteUbergraph_BP_Platform_Rotate
+[2018.08.02-18.43.52:045][133]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220d04ff600, Size=32, Default__BP_Teleporter_Particle_C Function /Game/2DSideScrollerBP/Blueprints/BP_Teleporter_Particle.BP_Teleporter_Particle_C:ExecuteUbergraph_BP_Teleporter_Particle
+[2018.08.02-18.43.52:046][133]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000220d04ff600, Size=32
+[2018.08.02-18.43.52:046][133]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220d04ff600, Size=32, Default__BP_Teleporter_Particle_C Function /Engine/Transient.REINST_BP_Teleporter_Particle_C_19:ExecuteUbergraph_BP_Teleporter_Particle
+[2018.08.02-18.43.52:047][133]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220d04ff200, Size=32, Default__BP_Teleporter_Particle_C Function /Game/2DSideScrollerBP/Blueprints/BP_Teleporter_Particle.BP_Teleporter_Particle_C:ExecuteUbergraph_BP_Teleporter_Particle
+[2018.08.02-18.43.52:060][133]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220d04c5b20, Size=72, Default__Collectible_C Function /Game/2DSideScrollerBP/Blueprints/Collectible.Collectible_C:ExecuteUbergraph_Collectible
+[2018.08.02-18.43.52:062][133]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000220d04c5b20, Size=72
+[2018.08.02-18.43.52:062][133]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220d04c5080, Size=72, Default__Collectible_C Function /Engine/Transient.REINST_Collectible_C_21:ExecuteUbergraph_Collectible
+[2018.08.02-18.43.52:064][133]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220d04c4220, Size=72, Default__Collectible_C Function /Game/2DSideScrollerBP/Blueprints/Collectible.Collectible_C:ExecuteUbergraph_Collectible
+[2018.08.02-18.43.52:080][133]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220dd6672e0, Size=136, Default__Level_00_C Function /Game/2DSideScrollerBP/Maps/Level_00.Level_00_C:ExecuteUbergraph_Level_00
+[2018.08.02-18.43.52:084][133]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000220dd6672e0, Size=136
+[2018.08.02-18.43.52:084][133]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220d04d5f80, Size=136, Default__Level_00_C Function /Engine/Transient.REINST_Level_00_C_23:ExecuteUbergraph_Level_00
+[2018.08.02-18.43.52:088][133]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220dd6063e0, Size=136, Default__Level_00_C Function /Game/2DSideScrollerBP/Maps/Level_00.Level_00_C:ExecuteUbergraph_Level_00
+[2018.08.02-18.43.52:210][133]LogAIModule: Creating AISystem for world Level_00
+[2018.08.02-18.43.52:244][133]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000220d4799a80, Size=288
+[2018.08.02-18.43.52:244][133]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000220e29aa8d0, Size=12
+[2018.08.02-18.43.52:244][133]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000220e29aa8c0, Size=16
+[2018.08.02-18.43.52:244][133]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000220e2563740, Size=64
+[2018.08.02-18.43.52:244][133]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000220d052a680, Size=360
+[2018.08.02-18.43.52:244][133]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000220cf44f340, Size=164
+[2018.08.02-18.43.52:245][133]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000220d04ff600, Size=32
+[2018.08.02-18.43.52:245][133]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000220d04c5080, Size=72
+[2018.08.02-18.43.52:245][133]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000220d04d5f80, Size=136
+[2018.08.02-18.43.52:247][133]Cmd: MAP LOAD FILE="../../../../School/Unreal Project/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScrollerBP/Maps/Level_00.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.02-18.43.52:247][133]LightingResults: New page: Lighting Build
+[2018.08.02-18.43.52:249][133]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2018.08.02-18.43.52:250][133]LoadErrors: New page: Loading map: Level_00.umap
+[2018.08.02-18.43.52:250][133]MapCheck: New page: Map Check
+[2018.08.02-18.43.52:250][133]LightingResults: New page: Lighting Build
+[2018.08.02-18.43.52:280][133]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.02-18.43.52:329][133]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.02-18.43.52:402][133]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 73.135ms to complete.
+[2018.08.02-18.43.52:403][133]LogFileHelpers: Loading map 'Level_00' took 0.156
+[2018.08.02-18.43.57:817][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-18.44.15:600][503]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (TeleportPad3)
+[2018.08.02-18.44.16:498][554]Cmd: DELETE
+[2018.08.02-18.44.16:498][554]Cmd: ACTOR DELETE
+[2018.08.02-18.44.16:501][554]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.08.02-18.44.16:511][554]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2018.08.02-18.44.17:905][638]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Teleport-Platform)
+[2018.08.02-18.44.26:158][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-18.44.40:291][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-18.44.46:054][305]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000220dd6063e0, Size=136
+[2018.08.02-18.44.46:054][305]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220e54451c0, Size=136, Default__Level_00_C Function /Engine/Transient.REINST_Level_00_C_27:ExecuteUbergraph_Level_00
+[2018.08.02-18.44.46:057][305]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220e553a660, Size=136, Default__Level_00_C Function /Game/2DSideScrollerBP/Maps/Level_00.Level_00_C:ExecuteUbergraph_Level_00
+[2018.08.02-18.44.46:219][305]LogSavePackage: Save=183.59ms
+[2018.08.02-18.44.46:219][305]LogSavePackage: Moving '../../../../School/Unreal Project/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Level_00F5EFBD31488BB624819913B8DE4587E9.tmp' to '../../../../School/Unreal Project/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScrollerBP/Maps/Level_00.umap'
+[2018.08.02-18.44.46:225][305]LogSavePackage: Display: Finished SavePackage ../../../../School/Unreal Project/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScrollerBP/Maps/Level_00.umap
+[2018.08.02-18.44.50:667][563]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (TeleportPad2)
+[2018.08.02-18.44.51:634][618]Cmd: DELETE
+[2018.08.02-18.44.51:634][618]Cmd: ACTOR DELETE
+[2018.08.02-18.44.51:637][618]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.08.02-18.44.51:648][618]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000220e54451c0, Size=136
+[2018.08.02-18.44.51:649][618]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2018.08.02-18.44.54:144][767]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (TeleportPad4)
+[2018.08.02-18.44.54:912][810]Cmd: DELETE
+[2018.08.02-18.44.54:912][810]Cmd: ACTOR DELETE
+[2018.08.02-18.44.54:915][810]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.08.02-18.44.54:925][810]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2018.08.02-18.44.58:874][ 43]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (TeleportPad)
+[2018.08.02-18.44.59:645][ 86]Cmd: DELETE
+[2018.08.02-18.44.59:645][ 86]Cmd: ACTOR DELETE
+[2018.08.02-18.44.59:648][ 86]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.08.02-18.44.59:658][ 86]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2018.08.02-18.45.03:522][316]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Teleport-Platform)
+[2018.08.02-18.45.04:509][372]Cmd: EDIT COPY
+[2018.08.02-18.45.04:748][386]Cmd: EDIT PASTE
+[2018.08.02-18.45.21:415][351]Cmd: EDIT PASTE
+[2018.08.02-18.45.36:638][247]Cmd: EDIT PASTE
+[2018.08.02-18.45.41:528][535]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2018.08.02-18.45.44:679][713]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Teleport-Platform4)
+[2018.08.02-18.46.04:029][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-18.46.15:734][546]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2018.08.02-18.46.16:636][597]LogEditorViewport: Clicking on Actor (LMB): TriggerSphere (TriggerSphere3)
+[2018.08.02-18.46.22:076][913]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (TeleportPad8)
+[2018.08.02-18.46.23:361][987]Cmd: DELETE
+[2018.08.02-18.46.23:362][987]Cmd: ACTOR DELETE
+[2018.08.02-18.46.23:364][987]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.08.02-18.46.23:375][987]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2018.08.02-18.46.26:442][168]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (TeleportPad7)
+[2018.08.02-18.46.27:348][219]Cmd: DELETE
+[2018.08.02-18.46.27:348][219]Cmd: ACTOR DELETE
+[2018.08.02-18.46.27:350][219]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.08.02-18.46.27:361][219]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2018.08.02-18.46.29:179][327]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (TeleportPad6)
+[2018.08.02-18.46.29:982][372]Cmd: DELETE
+[2018.08.02-18.46.29:982][372]Cmd: ACTOR DELETE
+[2018.08.02-18.46.29:984][372]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.08.02-18.46.29:995][372]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2018.08.02-18.46.33:964][607]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (TeleportPad5)
+[2018.08.02-18.46.34:678][647]Cmd: DELETE
+[2018.08.02-18.46.34:678][647]Cmd: ACTOR DELETE
+[2018.08.02-18.46.34:681][647]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.08.02-18.46.34:692][647]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2018.08.02-18.46.42:213][ 98]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Teleport-Platform4)
+[2018.08.02-18.46.43:507][173]Cmd: EDIT COPY
+[2018.08.02-18.46.43:755][188]Cmd: EDIT PASTE
+[2018.08.02-18.46.48:368][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-18.46.54:602][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-18.46.59:475][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-18.47.08:393][657]Cmd: TRANSACTION UNDO
+[2018.08.02-18.47.08:393][657]LogEditorTransaction: Undo Set Scale
+[2018.08.02-18.47.31:921][ 66]Cmd: EDIT COPY
+[2018.08.02-18.47.32:179][ 81]Cmd: EDIT PASTE
+[2018.08.02-18.47.53:898][354]Cmd: EDIT COPY
+[2018.08.02-18.47.54:154][369]Cmd: EDIT PASTE
+[2018.08.02-18.47.56:490][505]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (RightEdge)
+[2018.08.02-18.47.57:275][549]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Teleport-Platform7)
+[2018.08.02-18.48.11:346][378]Cmd: EDIT COPY
+[2018.08.02-18.48.11:641][395]Cmd: EDIT PASTE
+[2018.08.02-18.48.14:398][557]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2018.08.02-18.48.16:103][656]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Teleport-Platform8)
+[2018.08.02-18.48.39:748][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-18.48.47:575][510]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Teleport-Platform7)
+[2018.08.02-18.48.48:435][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-18.48.49:901][644]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.02-18.48.53:021][827]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Teleport-Platform6)
+[2018.08.02-18.48.56:497][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-18.48.59:781][224]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Teleport-Platform5)
+[2018.08.02-18.49.01:727][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-18.49.05:672][570]LogEditorViewport: Clicking Background
+[2018.08.02-18.49.13:895][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-18.49.34:074][269]Cmd: TRANSACTION UNDO
+[2018.08.02-18.49.34:074][269]LogEditorTransaction: Undo Set Scale
+[2018.08.02-18.49.35:042][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-18.49.47:485][ 69]LogEditorViewport: Clicking on Actor (LMB): BP_Teleporter_Particle_C (BP_Teleporter_Particle3)
+[2018.08.02-18.49.48:554][131]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Teleporter_Particle_C (BP_Teleporter_Particle2)
+[2018.08.02-18.49.49:364][178]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Teleporter_Particle_C (BP_Teleporter_Particle)
+[2018.08.02-18.50.34:395][862]LogEditorViewport: Clicking Background
+[2018.08.02-18.50.35:917][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-18.50.36:057][954]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000220e553a660, Size=136
+[2018.08.02-18.50.36:057][954]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220e53b4a40, Size=136, Default__Level_00_C Function /Engine/Transient.REINST_Level_00_C_31:ExecuteUbergraph_Level_00
+[2018.08.02-18.50.36:060][954]LogUObjectGlobals: Created PersistentFrame Addr=0x00000220ed824540, Size=136, Default__Level_00_C Function /Game/2DSideScrollerBP/Maps/Level_00.Level_00_C:ExecuteUbergraph_Level_00
+[2018.08.02-18.50.36:228][954]LogSavePackage: Save=188.64ms
+[2018.08.02-18.50.36:228][954]LogSavePackage: Moving '../../../../School/Unreal Project/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Level_001BE5CB2F4ED864DBA81ED8A3DCB72017.tmp' to '../../../../School/Unreal Project/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScrollerBP/Maps/Level_00.umap'
+[2018.08.02-18.50.36:233][954]LogSavePackage: Display: Finished SavePackage ../../../../School/Unreal Project/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScrollerBP/Maps/Level_00.umap
