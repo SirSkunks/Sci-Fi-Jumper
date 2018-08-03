@@ -1,0 +1,815 @@
+﻿Log file open, 07/31/18 14:53:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: VDDUNRL_DJMM
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1091055908) SRandInit(-1091055908).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.284083
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.781s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-HOHFF1J (10.4.107.27:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: D:/Programs/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.31-18.53.32:464][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.31-18.53.32:464][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.31-18.53.32:486][  0]LogInit: Computer: DESKTOP-HOHFF1J
+[2018.07.31-18.53.32:486][  0]LogInit: User: Luke
+[2018.07.31-18.53.32:486][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.31-18.53.32:486][  0]LogInit: High frequency timer resolution =2.742191 MHz
+[2018.07.31-18.53.32:486][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.07.31-18.53.32:486][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.31-18.53.32:487][  0]LogMemory: Process Physical Memory: 275.17 MB used, 275.17 MB peak
+[2018.07.31-18.53.32:487][  0]LogMemory: Process Virtual Memory: 264.95 MB used, 264.95 MB peak
+[2018.07.31-18.53.32:487][  0]LogMemory: Physical Memory: 7416.68 MB used,  8840.35 MB free, 16257.03 MB total
+[2018.07.31-18.53.32:487][  0]LogMemory: Virtual Memory: 4794.19 MB used,  8840.35 MB free, 134217728.00 MB total
+[2018.07.31-18.53.32:766][  0]LogInit: Using OS detected language (en-US).
+[2018.07.31-18.53.32:766][  0]LogInit: Using OS detected locale (en-US).
+[2018.07.31-18.53.32:769][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.07.31-18.53.33:249][  0]LogStreaming: Display: Took  0.483s to EndInitTextLocalization.
+[2018.07.31-18.53.33:249][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.31-18.53.33:288][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.31-18.53.33:288][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.31-18.53.33:487][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.31-18.53.33:548][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.07.31-18.53.33:548][  0]LogD3D11RHI:       8081/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.07.31-18.53.33:568][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.07.31-18.53.33:568][  0]LogD3D11RHI:       128/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.07.31-18.53.33:570][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.31-18.53.33:570][  0]LogD3D11RHI:       0/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.31-18.53.33:570][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.31-18.53.33:576][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.31-18.53.33:577][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.31-18.53.33:577][  0]LogWindows: EnumDisplayDevices:
+[2018.07.31-18.53.33:577][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.07.31-18.53.33:577][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.07.31-18.53.33:577][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.07.31-18.53.33:577][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.07.31-18.53.33:577][  0]LogWindows:    4. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.07.31-18.53.33:577][  0]LogWindows:    5. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.07.31-18.53.33:577][  0]LogWindows:    6. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.07.31-18.53.33:578][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.31-18.53.33:578][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.07.31-18.53.33:578][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.31-18.53.33:578][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.31-18.53.33:578][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2018.07.31-18.53.33:612][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.31-18.53.33:612][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.31-18.53.33:612][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.31-18.53.33:631][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.07.31-18.53.33:679][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Intermediate/Shaders/WorkingDirectory/3176/).
+[2018.07.31-18.53.33:679][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Luke/AppData/Local/Temp/UnrealShaderWorkingDir/09D116C043236F16896F2EB76F20E4FF/'.
+[2018.07.31-18.53.33:889][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.31-18.53.33:902][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.31-18.53.33:914][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.31-18.53.33:927][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.31-18.53.33:941][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.31-18.53.33:955][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.31-18.53.33:970][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.31-18.53.33:983][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.31-18.53.33:990][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.31-18.53.34:002][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.31-18.53.34:014][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.31-18.53.34:029][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.31-18.53.34:048][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.31-18.53.34:068][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.31-18.53.34:087][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.31-18.53.34:125][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.31-18.53.34:125][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.31-18.53.34:140][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.31-18.53.34:142][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.31-18.53.34:182][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.31-18.53.34:197][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.31-18.53.34:215][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.31-18.53.34:231][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.31-18.53.34:249][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.31-18.53.34:267][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.31-18.53.34:267][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.31-18.53.34:359][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.31-18.53.34:359][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.31-18.53.34:359][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.31-18.53.35:159][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.31-18.53.35:231][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/Luke/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.31-18.53.35:231][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Luke/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.31-18.53.35:232][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.31-18.53.35:232][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.31-18.53.35:232][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.31-18.53.35:232][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.31-18.53.35:249][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.31-18.53.35:262][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.31-18.53.35:262][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.31-18.53.35:262][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.31-18.53.35:276][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.31-18.53.35:277][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.31-18.53.35:277][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.31-18.53.35:277][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.31-18.53.35:396][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2018.07.31-18.53.35:749][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.31-18.53.35:904][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.31-18.53.35:906][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.31-18.53.35:906][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.31-18.53.35:906][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.31-18.53.35:906][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.31-18.53.35:906][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.31-18.53.35:936][  0]LogNetVersion: VDDUNRL_DJMM , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2093243182)
+[2018.07.31-18.53.36:408][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.093396 seconds
+[2018.07.31-18.53.36:415][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.07.31-18.53.36:415][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.07.31-18.53.36:415][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.31-18.53.37:984][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.31-18.53.38:008][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.31-18.53.38:316][  0]SourceControl: Source control is disabled
+[2018.07.31-18.53.38:317][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.07.31-18.53.38:317][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2018.07.31-18.53.38:317][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.07.31-18.53.38:317][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2018.07.31-18.53.38:322][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.07.31-18.53.38:322][  0]LogWindows: Warning: URL: C:\Users\Luke\AppData\Local/Programs/Git/cmd/git.exe version
+[2018.07.31-18.53.38:323][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.07.31-18.53.38:323][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2018.07.31-18.53.38:323][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.07.31-18.53.38:323][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2018.07.31-18.53.38:323][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.07.31-18.53.38:323][  0]LogWindows: Warning: URL: C:\Users\Luke\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2018.07.31-18.53.38:323][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.07.31-18.53.38:323][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2018.07.31-18.53.38:335][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.07.31-18.53.38:335][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2018.07.31-18.53.38:335][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.07.31-18.53.38:335][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2018.07.31-18.53.38:335][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.07.31-18.53.38:335][  0]LogWindows: Warning: URL: C:\Users\Luke\AppData\Local/Programs/Git/cmd/git.exe version
+[2018.07.31-18.53.38:335][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.07.31-18.53.38:335][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2018.07.31-18.53.38:336][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.07.31-18.53.38:336][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2018.07.31-18.53.38:336][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.07.31-18.53.38:336][  0]LogWindows: Warning: URL: C:\Users\Luke\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2018.07.31-18.53.38:336][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.07.31-18.53.38:336][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2018.07.31-18.53.38:350][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.07.31-18.53.38:350][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2018.07.31-18.53.38:350][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.07.31-18.53.38:350][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2018.07.31-18.53.38:350][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.07.31-18.53.38:350][  0]LogWindows: Warning: URL: C:\Users\Luke\AppData\Local/Programs/Git/cmd/git.exe version
+[2018.07.31-18.53.38:350][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.07.31-18.53.38:350][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2018.07.31-18.53.38:351][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.07.31-18.53.38:351][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2018.07.31-18.53.38:351][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.07.31-18.53.38:351][  0]LogWindows: Warning: URL: C:\Users\Luke\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2018.07.31-18.53.38:351][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.07.31-18.53.38:351][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2018.07.31-18.53.38:772][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.31-18.53.38:895][  0]LogOcInput: OculusInput pre-init called
+[2018.07.31-18.53.38:984][  0]LogEngine: Initializing Engine...
+[2018.07.31-18.53.38:985][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.31-18.53.38:987][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.31-18.53.38:987][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.31-18.53.39:212][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.31-18.53.39:223][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.07.31-18.53.39:285][  0]LogInit: FAudioDevice initialized.
+[2018.07.31-18.53.39:365][  0]LogDerivedDataCache: Saved boot cache 0.08s 74MB C:/Users/Luke/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.31-18.53.39:382][  0]LogInit: Texture streaming: Enabled
+[2018.07.31-18.53.39:394][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.31-18.53.39:404][  0]LogInit: Transaction tracking system initialized
+[2018.07.31-18.53.39:422][  0]BlueprintLog: New page: Editor Load
+[2018.07.31-18.53.39:478][  0]LocalizationService: Localization service is disabled
+[2018.07.31-18.53.39:583][  0]LogConsoleResponse: Display: 
+[2018.07.31-18.53.39:749][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.31-18.53.39:749][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.31-18.53.39:749][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.31-18.53.39:749][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.31-18.53.39:749][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.31-18.53.40:027][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/' took 0.03s
+[2018.07.31-18.53.40:027][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.07.31-18.53.40:027][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2018.07.31-18.53.40:027][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.07.31-18.53.40:027][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2018.07.31-18.53.40:027][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.07.31-18.53.40:027][  0]LogWindows: Warning: URL: C:\Users\Luke\AppData\Local/Programs/Git/cmd/git.exe version
+[2018.07.31-18.53.40:028][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.07.31-18.53.40:028][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2018.07.31-18.53.40:028][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.07.31-18.53.40:028][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2018.07.31-18.53.40:028][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.07.31-18.53.40:028][  0]LogWindows: Warning: URL: C:\Users\Luke\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2018.07.31-18.53.40:028][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.07.31-18.53.40:028][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2018.07.31-18.53.40:028][  0]Cmd: MAP LOAD FILE="C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.31-18.53.40:028][  0]LogEditorServer: Warning: Can't find file 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2018.07.31-18.53.40:028][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.31-18.53.40:072][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 43.578ms to complete.
+[2018.07.31-18.53.40:072][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.044
+[2018.07.31-18.53.40:250][  0]LogCollectionManager: Loaded 0 collections in 0.000916 seconds
+[2018.07.31-18.53.40:294][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Collections/' took 0.01s
+[2018.07.31-18.53.40:294][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/Developers/Luke/Collections/' took 0.01s
+[2018.07.31-18.53.40:294][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/Collections/' took 0.01s
+[2018.07.31-18.53.40:294][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.31-18.53.40:304][  0]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2452 classes and 558 folders.
+[2018.07.31-18.53.40:309][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.31-18.53.40:916][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.31-18.53.40:960][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.07.31-18.53.41:048][  0]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.31-18.53.41:051][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.31-18.53.41:072][  0]LogSlate: Took 0.014122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.31-18.53.41:270][  0]LogRenderer: Reallocating scene render targets to support 1252x460 Format 10 NumSamples 1 (Frame:1).
+[2018.07.31-18.53.41:372][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.31-18.53.41:372][  0]LogLoad: (Engine Initialization) Total time: 11.03 seconds
+[2018.07.31-18.53.41:372][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.31-18.53.41:759][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.31-18.53.42:077][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/' took 0.35s
+[2018.07.31-18.53.42:393][  2]LogAssetRegistry: Asset discovery search completed in 7.0206 seconds
+[2018.07.31-18.53.42:399][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.31-18.53.42:399][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000105 seconds (updated 0 objects)
+[2018.07.31-18.53.44:712][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-18.53.46:132][ 91]LogSlate: Took 0.024558 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.31-18.53.46:363][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x000002715465fb00, Size=288, Default__2DSideScrollerCharacter_C Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter
+[2018.07.31-18.53.46:369][ 91]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002715465fb00, Size=288
+[2018.07.31-18.53.46:369][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x000002715465fb00, Size=288, Default__2DSideScrollerCharacter_C Function /Engine/Transient.REINST_2DSideScrollerCharacter_C_3:ExecuteUbergraph_2DSideScrollerCharacter
+[2018.07.31-18.53.46:375][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x000002715465eac0, Size=288, Default__2DSideScrollerCharacter_C Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter
+[2018.07.31-18.53.46:399][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027143959950, Size=12, Default__2DSideScrollerGameMode_C Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C:ExecuteUbergraph_2DSideScrollerGameMode
+[2018.07.31-18.53.46:400][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027143959940, Size=16, Default__GameHUD_C Function /Game/2DSideScrollerBP/Blueprints/GameHUD.GameHUD_C:ExecuteUbergraph_GameHUD
+[2018.07.31-18.53.46:401][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x00000271551e37c0, Size=64, Default__UI_InGame_C Function /Game/2DSideScrollerBP/Blueprints/UI_InGame.UI_InGame_C:ExecuteUbergraph_UI_InGame
+[2018.07.31-18.53.46:429][ 91]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027143959940, Size=16
+[2018.07.31-18.53.46:429][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027143959940, Size=16, Default__GameHUD_C Function /Engine/Transient.REINST_GameHUD_C_5:ExecuteUbergraph_GameHUD
+[2018.07.31-18.53.46:429][ 91]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027143959950, Size=12
+[2018.07.31-18.53.46:429][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027143959950, Size=12, Default__2DSideScrollerGameMode_C Function /Engine/Transient.REINST_2DSideScrollerGameMode_C_6:ExecuteUbergraph_2DSideScrollerGameMode
+[2018.07.31-18.53.46:429][ 91]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000271551e37c0, Size=64
+[2018.07.31-18.53.46:429][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027154e662c0, Size=64, Default__UI_InGame_C Function /Engine/Transient.REINST_UI_InGame_C_0:ExecuteUbergraph_UI_InGame
+[2018.07.31-18.53.46:434][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027154e177c0, Size=16, Default__GameHUD_C Function /Game/2DSideScrollerBP/Blueprints/GameHUD.GameHUD_C:ExecuteUbergraph_GameHUD
+[2018.07.31-18.53.46:435][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027154e17680, Size=12, Default__2DSideScrollerGameMode_C Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C:ExecuteUbergraph_2DSideScrollerGameMode
+[2018.07.31-18.53.46:436][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027154de6ec0, Size=64, Default__UI_InGame_C Function /Game/2DSideScrollerBP/Blueprints/UI_InGame.UI_InGame_C:ExecuteUbergraph_UI_InGame
+[2018.07.31-18.53.46:477][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027154e69180, Size=360, Default__BP_Platform_Point_C Function /Game/2DSideScrollerBP/Blueprints/BP_Platform_Point.BP_Platform_Point_C:ExecuteUbergraph_BP_Platform_Point
+[2018.07.31-18.53.46:480][ 91]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027154e69180, Size=360
+[2018.07.31-18.53.46:480][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027154db3280, Size=360, Default__BP_Platform_Point_C Function /Engine/Transient.REINST_BP_Platform_Point_C_15:ExecuteUbergraph_BP_Platform_Point
+[2018.07.31-18.53.46:482][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027154d96800, Size=360, Default__BP_Platform_Point_C Function /Game/2DSideScrollerBP/Blueprints/BP_Platform_Point.BP_Platform_Point_C:ExecuteUbergraph_BP_Platform_Point
+[2018.07.31-18.53.46:502][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027154d8f940, Size=164, Default__BP_Platform_Rotate_C Function /Game/2DSideScrollerBP/Blueprints/BP_Platform_Rotate.BP_Platform_Rotate_C:ExecuteUbergraph_BP_Platform_Rotate
+[2018.07.31-18.53.46:503][ 91]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027154d8f940, Size=164
+[2018.07.31-18.53.46:503][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027154d8f940, Size=164, Default__BP_Platform_Rotate_C Function /Engine/Transient.REINST_BP_Platform_Rotate_C_17:ExecuteUbergraph_BP_Platform_Rotate
+[2018.07.31-18.53.46:504][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027154d8f100, Size=164, Default__BP_Platform_Rotate_C Function /Game/2DSideScrollerBP/Blueprints/BP_Platform_Rotate.BP_Platform_Rotate_C:ExecuteUbergraph_BP_Platform_Rotate
+[2018.07.31-18.53.46:548][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027154d93600, Size=32, Default__BP_Teleporter_Particle_C Function /Game/2DSideScrollerBP/Blueprints/BP_Teleporter_Particle.BP_Teleporter_Particle_C:ExecuteUbergraph_BP_Teleporter_Particle
+[2018.07.31-18.53.46:549][ 91]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027154d93600, Size=32
+[2018.07.31-18.53.46:549][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027154d93600, Size=32, Default__BP_Teleporter_Particle_C Function /Engine/Transient.REINST_BP_Teleporter_Particle_C_19:ExecuteUbergraph_BP_Teleporter_Particle
+[2018.07.31-18.53.46:550][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027154d93200, Size=32, Default__BP_Teleporter_Particle_C Function /Game/2DSideScrollerBP/Blueprints/BP_Teleporter_Particle.BP_Teleporter_Particle_C:ExecuteUbergraph_BP_Teleporter_Particle
+[2018.07.31-18.53.46:574][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x00000271551e5cc8, Size=56, Default__Collectible_C Function /Game/2DSideScrollerBP/Blueprints/Collectible.Collectible_C:ExecuteUbergraph_Collectible
+[2018.07.31-18.53.46:577][ 91]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000271551e5cc8, Size=56
+[2018.07.31-18.53.46:577][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x00000271551e5cc8, Size=56, Default__Collectible_C Function /Engine/Transient.REINST_Collectible_C_21:ExecuteUbergraph_Collectible
+[2018.07.31-18.53.46:578][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x00000271551e57f8, Size=56, Default__Collectible_C Function /Game/2DSideScrollerBP/Blueprints/Collectible.Collectible_C:ExecuteUbergraph_Collectible
+[2018.07.31-18.53.46:699][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027154a82160, Size=136, Default__Level_00_C Function /Game/2DSideScrollerBP/Maps/Level_00.Level_00_C:ExecuteUbergraph_Level_00
+[2018.07.31-18.53.46:709][ 91]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027154a82160, Size=136
+[2018.07.31-18.53.46:709][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027154a32b60, Size=136, Default__Level_00_C Function /Engine/Transient.REINST_Level_00_C_23:ExecuteUbergraph_Level_00
+[2018.07.31-18.53.46:715][ 91]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027154a30220, Size=136, Default__Level_00_C Function /Game/2DSideScrollerBP/Maps/Level_00.Level_00_C:ExecuteUbergraph_Level_00
+[2018.07.31-18.53.46:906][ 91]LogAIModule: Creating AISystem for world Level_00
+[2018.07.31-18.53.46:941][ 91]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002715465fb00, Size=288
+[2018.07.31-18.53.46:941][ 91]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027143959950, Size=12
+[2018.07.31-18.53.46:941][ 91]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027143959940, Size=16
+[2018.07.31-18.53.46:941][ 91]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027154e662c0, Size=64
+[2018.07.31-18.53.46:941][ 91]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027154db3280, Size=360
+[2018.07.31-18.53.46:941][ 91]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027154d8f940, Size=164
+[2018.07.31-18.53.46:941][ 91]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027154d93600, Size=32
+[2018.07.31-18.53.46:941][ 91]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000271551e5cc8, Size=56
+[2018.07.31-18.53.46:941][ 91]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027154a32b60, Size=136
+[2018.07.31-18.53.46:944][ 91]Cmd: MAP LOAD FILE="C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScrollerBP/Maps/Level_00.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.31-18.53.46:944][ 91]LightingResults: New page: Lighting Build
+[2018.07.31-18.53.46:945][ 91]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 5 classes and 0 folders.
+[2018.07.31-18.53.46:946][ 91]LoadErrors: New page: Loading map: Level_00.umap
+[2018.07.31-18.53.46:947][ 91]MapCheck: New page: Map Check
+[2018.07.31-18.53.46:947][ 91]LightingResults: New page: Lighting Build
+[2018.07.31-18.53.47:032][ 91]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.31-18.53.47:076][ 91]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.31-18.53.47:119][ 91]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 42.538ms to complete.
+[2018.07.31-18.53.47:119][ 91]LogFileHelpers: Loading map 'Level_00' took 0.176
+[2018.07.31-18.58.40:288][631]LogRenderer: Reallocating scene render targets to support 1668x940 Format 10 NumSamples 1 (Frame:1).
+[2018.07.31-18.59.01:419][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-18.59.01:485][874]LogSlate: Window 'Drone-Exploding*' being destroyed
+[2018.07.31-18.59.01:491][874]LogSlate: Window 'Drone-Exploding*' being destroyed
+[2018.07.31-19.00.29:738][912]AssetReimport: New page: Outstanding source content changes 11:00:29 AM
+[2018.07.31-19.00.29:742][912]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-Explode3.png)
+[2018.07.31-19.00.29:765][912]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-Explode2.png)
+[2018.07.31-19.00.29:805][912]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-Explode1.png)
+[2018.07.31-19.00.29:901][912]LogSavePackage: Save=12.70ms
+[2018.07.31-19.00.29:901][912]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-Explode3C5F925924B8E4103257A0394175F99B5.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-Explode3.uasset'
+[2018.07.31-19.00.29:907][912]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-Explode3.uasset
+[2018.07.31-19.00.29:925][912]LogSavePackage: Save=9.68ms
+[2018.07.31-19.00.29:925][912]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-Explode2CD4A4B084422CC643EC9C4AF861B3D4C.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-Explode2.uasset'
+[2018.07.31-19.00.29:928][912]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-Explode2.uasset
+[2018.07.31-19.00.29:952][912]LogSavePackage: Save=9.59ms
+[2018.07.31-19.00.29:952][912]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-Explode1BA48F94F41D9E6D1A8629794A8B088B1.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-Explode1.uasset'
+[2018.07.31-19.00.29:955][912]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-Explode1.uasset
+[2018.07.31-19.00.33:061][922]AssetReimport: Importing new asset /Game/2DSideScroller/Sprites/IdleFrames/Drone-Explode3.
+[2018.07.31-19.00.33:061][922]AssetReimport: Importing new asset /Game/2DSideScroller/Sprites/IdleFrames/Drone-Explode2.
+[2018.07.31-19.00.33:061][922]AssetReimport: Importing new asset /Game/2DSideScroller/Sprites/IdleFrames/Drone-Explode1.
+[2018.07.31-19.00.36:736][933]AssetReimport: New page: Outstanding source content changes 11:00:36 AM
+[2018.07.31-19.00.36:738][933]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Frog-ReadyToExplode.png)
+[2018.07.31-19.00.36:840][933]LogSavePackage: Save=9.01ms
+[2018.07.31-19.00.36:840][933]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Frog-ReadyToExplodeD85A086C4C6A1EA470CF39ACE871EB5D.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Frog-ReadyToExplode.uasset'
+[2018.07.31-19.00.36:842][933]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Frog-ReadyToExplode.uasset
+[2018.07.31-19.00.39:853][988]AssetReimport: Importing new asset /Game/2DSideScroller/Sprites/IdleFrames/Frog-ReadyToExplode.
+[2018.07.31-19.01.05:785][529]LogSlate: Took 0.027967 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.31-19.01.05:913][529]LogRenderer: Reallocating scene render targets to support 1668x1104 Format 10 NumSamples 1 (Frame:1).
+[2018.07.31-19.01.05:913][529]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.31-19.01.18:067][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-19.01.20:373][379]LogSavePackage: Save=13.50ms
+[2018.07.31-19.01.20:373][379]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-Death18407F6F1499BD68E2168BA8B64611477.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-Death1.uasset'
+[2018.07.31-19.01.20:375][379]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-Death1.uasset
+[2018.07.31-19.01.25:645][692]LogSlate: Window 'Drone-Death1' being destroyed
+[2018.07.31-19.01.25:650][692]LogSlate: Window 'Drone-Death1' being destroyed
+[2018.07.31-19.01.50:128][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-19.01.52:012][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-19.01.52:164][247]LogSavePackage: Save=11.47ms
+[2018.07.31-19.01.52:164][247]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-Death2E6A4B41B4CCE1DD8B0983CBD95BE4780.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-Death2.uasset'
+[2018.07.31-19.01.52:166][247]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-Death2.uasset
+[2018.07.31-19.01.52:762][277]LogSavePackage: Save=5.14ms
+[2018.07.31-19.01.52:762][277]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-Death2C48E9E2849C070465472D39931EC21F9.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-Death2.uasset'
+[2018.07.31-19.01.52:763][277]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-Death2.uasset
+[2018.07.31-19.01.54:182][362]LogSlate: Window 'Drone-Death2' being destroyed
+[2018.07.31-19.01.54:186][362]LogSlate: Window 'Drone-Death2' being destroyed
+[2018.07.31-19.03.08:197][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-19.03.15:345][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-19.03.15:486][372]LogSavePackage: Save=14.20ms
+[2018.07.31-19.03.15:487][372]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-Death3E00EF8C04B1DBD93C353A084E4F1CE48.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-Death3.uasset'
+[2018.07.31-19.03.15:489][372]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-Death3.uasset
+[2018.07.31-19.03.16:079][404]LogSavePackage: Save=6.18ms
+[2018.07.31-19.03.16:079][404]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-Death36228BD874AB09F64E0B17D8911DD64D8.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-Death3.uasset'
+[2018.07.31-19.03.16:080][404]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-Death3.uasset
+[2018.07.31-19.03.16:966][457]LogSlate: Window 'Drone-Death3' being destroyed
+[2018.07.31-19.03.16:971][457]LogSlate: Window 'Drone-Death3' being destroyed
+[2018.07.31-19.03.46:205][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-19.03.46:328][188]LogSavePackage: Save=13.96ms
+[2018.07.31-19.03.46:328][188]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Frog-DeathAFD95BC94E701B17ABA48699938CA0A2.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Frog-Death.uasset'
+[2018.07.31-19.03.46:330][188]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Frog-Death.uasset
+[2018.07.31-19.03.46:622][202]LogSavePackage: Save=5.46ms
+[2018.07.31-19.03.46:622][202]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Frog-Death5DCC45494B8A7E537F1E479E73B1CEBB.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Frog-Death.uasset'
+[2018.07.31-19.03.46:623][202]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Frog-Death.uasset
+[2018.07.31-19.03.47:678][265]LogSlate: Window 'Frog-Death' being destroyed
+[2018.07.31-19.03.47:682][265]LogSlate: Window 'Frog-Death' being destroyed
+[2018.07.31-19.05.11:871][245]LogSavePackage: Save=14.32ms
+[2018.07.31-19.05.11:871][245]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-ExplodingDB540A1C46DC44B313C3D094CE25A6EC.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Drone-Exploding.uasset'
+[2018.07.31-19.05.11:873][245]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Drone-Exploding.uasset
+[2018.07.31-19.05.12:363][271]LogSavePackage: Save=4.45ms
+[2018.07.31-19.05.12:363][271]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-ExplodingCD97E2A340FF659D8A55489CA1917F2F.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Drone-Exploding.uasset'
+[2018.07.31-19.05.12:364][271]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Drone-Exploding.uasset
+[2018.07.31-19.05.35:692][666]LogSavePackage: Save=17.18ms
+[2018.07.31-19.05.35:692][666]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-Exploding796E3AB6464E10BC61E21D958BDEC7BE.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Drone-Exploding.uasset'
+[2018.07.31-19.05.35:693][666]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Drone-Exploding.uasset
+[2018.07.31-19.05.37:366][766]LogSlate: Window 'Drone-Exploding' being destroyed
+[2018.07.31-19.05.37:370][766]LogSlate: Window 'Drone-Exploding' being destroyed
+[2018.07.31-19.17.57:887][785]LogSavePackage: Save=10.47ms
+[2018.07.31-19.17.57:887][785]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-ExplodingLeft851FF994493395558DA5658D8B2843BD.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Drone-ExplodingLeft.uasset'
+[2018.07.31-19.17.57:889][785]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Drone-ExplodingLeft.uasset
+[2018.07.31-19.18.24:246][946]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/Level_00' took 0.011
+[2018.07.31-19.18.24:247][946]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Drone-ExplodingRight] ([1] browsable assets)...
+[2018.07.31-19.18.24:256][946]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/2DSideScroller/Sprites/Drone-ExplodingRight.Drone-ExplodingRight]
+[2018.07.31-19.18.24:256][946]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Drone-ExplodingRight]
+[2018.07.31-19.18.24:269][946]LogSavePackage: Save=10.87ms
+[2018.07.31-19.18.24:269][946]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-ExplodingRight_Auto120967D984A547BE83E32D5A7DB6CE296.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Autosaves/Game/2DSideScroller/Sprites/Drone-ExplodingRight_Auto1.uasset'
+[2018.07.31-19.18.24:275][946]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Autosaves/Game/2DSideScroller/Sprites/Drone-ExplodingRight_Auto1.uasset
+[2018.07.31-19.18.24:275][946]LogFileHelpers: Auto-saving content packages took 0.029
+[2018.07.31-19.19.10:198][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-19.19.36:347][473]AssetReimport: New page: Outstanding source content changes 11:19:36 AM
+[2018.07.31-19.19.36:349][473]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Frog-ReadyToExplodeLeft.png)
+[2018.07.31-19.19.36:404][473]LogSavePackage: Save=7.17ms
+[2018.07.31-19.19.36:404][473]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Frog-ReadyToExplodeLeft1989288D4C9F22D8222336BABEAADEF4.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Frog-ReadyToExplodeLeft.uasset'
+[2018.07.31-19.19.36:407][473]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Frog-ReadyToExplodeLeft.uasset
+[2018.07.31-19.19.39:684][483]AssetReimport: Importing new asset /Game/2DSideScroller/Sprites/IdleFrames/Frog-ReadyToExplodeLeft.
+[2018.07.31-19.19.46:014][502]AssetReimport: New page: Outstanding source content changes 11:19:46 AM
+[2018.07.31-19.19.46:015][502]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-RightExplode1.png)
+[2018.07.31-19.19.46:024][502]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-RightExplode3.png)
+[2018.07.31-19.19.46:036][502]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-RightExplode2.png)
+[2018.07.31-19.19.46:088][502]LogSavePackage: Save=7.70ms
+[2018.07.31-19.19.46:088][502]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-RightExplode14C14FEE84AC49AD6CDC32D9A1923F1B8.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-RightExplode1.uasset'
+[2018.07.31-19.19.46:090][502]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-RightExplode1.uasset
+[2018.07.31-19.19.46:119][502]LogSavePackage: Save=9.58ms
+[2018.07.31-19.19.46:119][502]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-RightExplode3C7F4617641B788FE6594569064EB465E.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-RightExplode3.uasset'
+[2018.07.31-19.19.46:121][502]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-RightExplode3.uasset
+[2018.07.31-19.19.46:150][502]LogSavePackage: Save=10.82ms
+[2018.07.31-19.19.46:150][502]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-RightExplode2F11F81DB4996B38544EE048850EED536.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-RightExplode2.uasset'
+[2018.07.31-19.19.46:153][502]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-RightExplode2.uasset
+[2018.07.31-19.19.49:348][512]AssetReimport: Importing new asset /Game/2DSideScroller/Sprites/IdleFrames/Drone-RightExplode1.
+[2018.07.31-19.19.49:348][512]AssetReimport: Importing new asset /Game/2DSideScroller/Sprites/IdleFrames/Drone-RightExplode3.
+[2018.07.31-19.19.49:348][512]AssetReimport: Importing new asset /Game/2DSideScroller/Sprites/IdleFrames/Drone-RightExplode2.
+[2018.07.31-19.20.28:606][357]LogSavePackage: Save=13.04ms
+[2018.07.31-19.20.28:606][357]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Frog-DeathRightCAC6F2124543DB9221356F991ED481C3.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Frog-DeathRight.uasset'
+[2018.07.31-19.20.28:609][357]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Frog-DeathRight.uasset
+[2018.07.31-19.20.46:288][343]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.31-19.20.53:735][778]LogSavePackage: Save=14.13ms
+[2018.07.31-19.20.53:735][778]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Frog-DeathleftAE13F36A477EF911001083A531D56698.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Frog-Deathleft.uasset'
+[2018.07.31-19.20.53:738][778]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Frog-Deathleft.uasset
+[2018.07.31-19.20.58:941][ 73]LogSavePackage: Save=6.62ms
+[2018.07.31-19.20.58:942][ 73]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Frog-Deathleft67E06D7942D438447897689E57AD4D98.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Frog-Deathleft.uasset'
+[2018.07.31-19.20.58:944][ 73]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Frog-Deathleft.uasset
+[2018.07.31-19.21.06:870][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-19.21.08:510][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-19.21.09:814][680]LogSavePackage: Save=12.89ms
+[2018.07.31-19.21.09:814][680]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Frog-Deathleft9E71BB8B4E6963A45AE6B3926410381B.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Frog-Deathleft.uasset'
+[2018.07.31-19.21.09:817][680]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Frog-Deathleft.uasset
+[2018.07.31-19.21.10:009][688]LogSavePackage: Save=6.09ms
+[2018.07.31-19.21.10:009][688]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Frog-DeathleftD46D614540AFE6AC288839994A9E2271.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Frog-Deathleft.uasset'
+[2018.07.31-19.21.10:010][688]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Frog-Deathleft.uasset
+[2018.07.31-19.21.51:570][156]LogSavePackage: Save=10.43ms
+[2018.07.31-19.21.51:570][156]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-ExplodeRightDB9D34384720236F2FDA889034DD6E03.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-ExplodeRight.uasset'
+[2018.07.31-19.21.51:572][156]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-ExplodeRight.uasset
+[2018.07.31-19.22.05:295][965]LogSavePackage: Save=13.32ms
+[2018.07.31-19.22.05:295][965]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-DeathLeftEBB6FB2744D8F03BD4569782E8351D57.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-DeathLeft.uasset'
+[2018.07.31-19.22.05:297][965]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-DeathLeft.uasset
+[2018.07.31-19.22.05:449][965]LogSavePackage: Save=4.97ms
+[2018.07.31-19.22.05:449][965]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-ExplodingLeft53C2FC7A4BB44EE3542DAF8DF10DFC01.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Drone-ExplodingLeft.uasset'
+[2018.07.31-19.22.05:450][965]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Drone-ExplodingLeft.uasset
+[2018.07.31-19.22.18:254][725]LogSavePackage: Save=13.64ms
+[2018.07.31-19.22.18:254][725]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-DeathLeft215C26C47452CE33D43BA48A01281262B.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-DeathLeft2.uasset'
+[2018.07.31-19.22.18:257][725]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-DeathLeft2.uasset
+[2018.07.31-19.22.18:411][725]LogSavePackage: Save=5.26ms
+[2018.07.31-19.22.18:411][725]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-ExplodingLeft0A020F0A4A18EB2071DFC1A3533138EC.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Drone-ExplodingLeft.uasset'
+[2018.07.31-19.22.18:412][725]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Drone-ExplodingLeft.uasset
+[2018.07.31-19.22.26:465][199]LogSavePackage: Save=11.96ms
+[2018.07.31-19.22.26:465][199]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-DeathLeft13989002348C026637F9BCF9115D783B7.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-DeathLeft1.uasset'
+[2018.07.31-19.22.26:468][199]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-DeathLeft1.uasset
+[2018.07.31-19.22.26:623][199]LogSavePackage: Save=4.64ms
+[2018.07.31-19.22.26:623][199]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-ExplodingLeft524DD3B6463E0E182C111595051AF63E.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Drone-ExplodingLeft.uasset'
+[2018.07.31-19.22.26:623][199]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Drone-ExplodingLeft.uasset
+[2018.07.31-19.22.33:321][594]LogSavePackage: Save=12.61ms
+[2018.07.31-19.22.33:321][594]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-DeathLeft319BD122A4C132810695E13BDA6BE8394.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-DeathLeft3.uasset'
+[2018.07.31-19.22.33:324][594]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-DeathLeft3.uasset
+[2018.07.31-19.22.33:473][594]LogSavePackage: Save=5.36ms
+[2018.07.31-19.22.33:473][594]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-ExplodingLeft73D424EC46ECD3C9C1466CB2A0B878C7.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Drone-ExplodingLeft.uasset'
+[2018.07.31-19.22.33:475][594]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Drone-ExplodingLeft.uasset
+[2018.07.31-19.22.39:205][931]LogSavePackage: Save=10.86ms
+[2018.07.31-19.22.39:205][931]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-ExplodeRight17746881543F9553F839CEABCB4D8A6BE.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-ExplodeRight1.uasset'
+[2018.07.31-19.22.39:207][931]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-ExplodeRight1.uasset
+[2018.07.31-19.22.47:173][393]LogSavePackage: Save=9.97ms
+[2018.07.31-19.22.47:173][393]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-DeathRight129EC9B23458736AB5984569CE7BF3AF7.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-DeathRight1.uasset'
+[2018.07.31-19.22.47:176][393]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-DeathRight1.uasset
+[2018.07.31-19.24.55:684][146]AssetReimport: New page: Outstanding source content changes 11:24:55 AM
+[2018.07.31-19.24.55:687][146]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-LeftExplode3.png)
+[2018.07.31-19.24.55:709][146]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-LeftExplode2.png)
+[2018.07.31-19.24.55:734][146]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-LeftExplode1.png)
+[2018.07.31-19.24.55:801][146]LogSavePackage: Save=18.70ms
+[2018.07.31-19.24.55:801][146]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-LeftExplode3E5659D994D7C189882A698AD0ED2CFA7.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-LeftExplode3.uasset'
+[2018.07.31-19.24.55:805][146]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-LeftExplode3.uasset
+[2018.07.31-19.24.55:826][146]LogSavePackage: Save=10.11ms
+[2018.07.31-19.24.55:826][146]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-LeftExplode2E9CA229240A3F35798F96A8E9243E2DD.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-LeftExplode2.uasset'
+[2018.07.31-19.24.55:829][146]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-LeftExplode2.uasset
+[2018.07.31-19.24.55:850][146]LogSavePackage: Save=9.69ms
+[2018.07.31-19.24.55:850][146]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-LeftExplode124266EF743542ED98D78A2AB94F1B92A.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-LeftExplode1.uasset'
+[2018.07.31-19.24.55:853][146]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-LeftExplode1.uasset
+[2018.07.31-19.24.58:859][269]AssetReimport: Importing new asset /Game/2DSideScroller/Sprites/IdleFrames/Drone-LeftExplode3.
+[2018.07.31-19.24.58:859][269]AssetReimport: Importing new asset /Game/2DSideScroller/Sprites/IdleFrames/Drone-LeftExplode2.
+[2018.07.31-19.24.58:859][269]AssetReimport: Importing new asset /Game/2DSideScroller/Sprites/IdleFrames/Drone-LeftExplode1.
+[2018.07.31-19.25.06:635][470]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.31-19.25.24:454][436]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.31-19.25.24:512][436]LogSlate: Window 'Drone-DeathRight1' being destroyed
+[2018.07.31-19.25.38:801][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-19.25.38:964][219]LogSavePackage: Save=12.63ms
+[2018.07.31-19.25.38:964][219]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-DeathLeft120AFCC4B468FEAB2FA9AD9A8A1EE8CFA.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-DeathLeft1.uasset'
+[2018.07.31-19.25.38:966][219]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-DeathLeft1.uasset
+[2018.07.31-19.25.40:033][283]LogSlate: Window 'Drone-DeathLeft1' being destroyed
+[2018.07.31-19.25.40:043][283]LogSlate: Window 'Drone-DeathLeft1' being destroyed
+[2018.07.31-19.25.48:653][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-19.25.49:058][793]LogSavePackage: Save=11.51ms
+[2018.07.31-19.25.49:058][793]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-DeathLeft29245DBCD4501CD80B33F97A1B9B6507F.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-DeathLeft2.uasset'
+[2018.07.31-19.25.49:060][793]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-DeathLeft2.uasset
+[2018.07.31-19.25.50:222][862]LogSlate: Window 'Drone-DeathLeft2' being destroyed
+[2018.07.31-19.25.50:226][862]LogSlate: Window 'Drone-DeathLeft2' being destroyed
+[2018.07.31-19.25.56:932][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-19.25.59:276][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-19.25.59:421][382]LogSavePackage: Save=11.96ms
+[2018.07.31-19.25.59:422][382]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-DeathLeft32AFE2A2947BDC6D82F7EB5987E32FF01.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-DeathLeft3.uasset'
+[2018.07.31-19.25.59:424][382]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-DeathLeft3.uasset
+[2018.07.31-19.25.59:579][388]LogSavePackage: Save=5.17ms
+[2018.07.31-19.25.59:579][388]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-DeathLeft3EBB08304462051CD113003A139E4250C.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-DeathLeft3.uasset'
+[2018.07.31-19.25.59:580][388]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-DeathLeft3.uasset
+[2018.07.31-19.26.00:602][449]LogSlate: Window 'Drone-DeathLeft3' being destroyed
+[2018.07.31-19.26.00:607][449]LogSlate: Window 'Drone-DeathLeft3' being destroyed
+[2018.07.31-19.26.15:731][344]LogSlate: Window 'Drone-ExplodingLeft' being destroyed
+[2018.07.31-19.26.15:736][344]LogSlate: Window 'Drone-ExplodingLeft' being destroyed
+[2018.07.31-19.26.32:319][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-19.26.32:494][312]LogSavePackage: Save=11.47ms
+[2018.07.31-19.26.32:494][312]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-DeathRight115C6CCFA4534237716AF35AAC47D2091.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-DeathRight1.uasset'
+[2018.07.31-19.26.32:497][312]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-DeathRight1.uasset
+[2018.07.31-19.26.33:452][369]LogSlate: Window 'Drone-DeathRight1' being destroyed
+[2018.07.31-19.26.33:459][369]LogSlate: Window 'Drone-DeathRight1' being destroyed
+[2018.07.31-19.26.41:144][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-19.26.43:798][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-19.26.43:906][962]LogSavePackage: Save=13.44ms
+[2018.07.31-19.26.43:906][962]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-DeathRight20EC9D54D4F3CD4280D1CBFB185B33B3E.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-DeathRight2.uasset'
+[2018.07.31-19.26.43:908][962]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-DeathRight2.uasset
+[2018.07.31-19.26.44:071][968]LogSavePackage: Save=7.22ms
+[2018.07.31-19.26.44:071][968]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-DeathRight2181E0F4D4D359254CF66769AE610BEA1.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-DeathRight2.uasset'
+[2018.07.31-19.26.44:072][968]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-DeathRight2.uasset
+[2018.07.31-19.26.44:832][ 13]LogSlate: Window 'Drone-DeathRight2' being destroyed
+[2018.07.31-19.26.44:839][ 13]LogSlate: Window 'Drone-DeathRight2' being destroyed
+[2018.07.31-19.26.56:541][624]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.31-19.27.05:534][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-19.27.05:656][142]LogSavePackage: Save=12.90ms
+[2018.07.31-19.27.05:656][142]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-DeathRight374339C0B487AE87686AC9893D7B7A113.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-DeathRight3.uasset'
+[2018.07.31-19.27.05:659][142]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-DeathRight3.uasset
+[2018.07.31-19.27.05:822][148]LogSavePackage: Save=6.12ms
+[2018.07.31-19.27.05:822][148]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-DeathRight3738DCDE84E2D79BFB92CACA44FB78CA3.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-DeathRight3.uasset'
+[2018.07.31-19.27.05:824][148]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Drone-DeathRight3.uasset
+[2018.07.31-19.27.06:701][200]LogSlate: Window 'Drone-DeathRight3' being destroyed
+[2018.07.31-19.27.06:706][200]LogSlate: Window 'Drone-DeathRight3' being destroyed
+[2018.07.31-19.27.24:982][288]LogSavePackage: Save=6.11ms
+[2018.07.31-19.27.24:982][288]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Frog-ReadyToExplodeRightB508778F4A1CE6C4ACF63D9BFF0B5D1C.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Frog-ReadyToExplodeRight.uasset'
+[2018.07.31-19.27.24:985][288]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Frog-ReadyToExplodeRight.uasset
+[2018.07.31-19.27.25:139][288]LogSavePackage: Save=5.07ms
+[2018.07.31-19.27.25:139][288]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Frog-DeathRightA769218149D39D8254C220A019EFE18C.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Frog-DeathRight.uasset'
+[2018.07.31-19.27.25:140][288]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleFrames/Frog-DeathRight.uasset
+[2018.07.31-19.27.51:979][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-19.28.13:534][108]LogSavePackage: Save=12.22ms
+[2018.07.31-19.28.13:534][108]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-ExplodingRight694EB20945B435AACE6B6090E79FB256.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Drone-ExplodingRight.uasset'
+[2018.07.31-19.28.13:536][108]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Drone-ExplodingRight.uasset
+[2018.07.31-19.28.13:713][115]LogSavePackage: Save=4.51ms
+[2018.07.31-19.28.13:713][115]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-ExplodingRight5E6857B94536D1196003FB85B28F4A21.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Drone-ExplodingRight.uasset'
+[2018.07.31-19.28.13:714][115]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Drone-ExplodingRight.uasset
+[2018.07.31-19.28.13:884][122]LogSavePackage: Save=5.46ms
+[2018.07.31-19.28.13:884][122]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-ExplodingRightA224683A451D1AA9BC18FD9490203DEA.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Drone-ExplodingRight.uasset'
+[2018.07.31-19.28.13:885][122]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Drone-ExplodingRight.uasset
+[2018.07.31-19.28.14:894][182]LogSlate: Window 'Drone-ExplodingRight' being destroyed
+[2018.07.31-19.28.14:900][182]LogSlate: Window 'Drone-ExplodingRight' being destroyed
+[2018.07.31-19.28.29:039][950]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.31-19.28.35:705][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/IdleCycle9" FILE="C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleCycle9.uasset" SILENT=true
+[2018.07.31-19.28.35:717][337]LogSavePackage: Save=10.20ms
+[2018.07.31-19.28.35:717][337]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/IdleCycle9D56FE46B43020D3AE21C1CB450CCEE07.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleCycle9.uasset'
+[2018.07.31-19.28.35:719][337]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/IdleCycle9.uasset
+[2018.07.31-19.28.48:541][ 92]LogSavePackage: Save=9.64ms
+[2018.07.31-19.28.48:541][ 92]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Frog-LeftExplode4C25E63243F9290FE7EEEE87E0514759.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Frog-LeftExplode.uasset'
+[2018.07.31-19.28.48:544][ 92]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Frog-LeftExplode.uasset
+[2018.07.31-19.29.52:014][849]LogSavePackage: Save=13.16ms
+[2018.07.31-19.29.52:014][849]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-ExplodingLeft1D1771FC4FC1AAF7D796AC8F762F04C8.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Drone-ExplodingLeft.uasset'
+[2018.07.31-19.29.52:016][849]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Drone-ExplodingLeft.uasset
+[2018.07.31-19.29.52:042][849]LogSavePackage: Save=11.98ms
+[2018.07.31-19.29.52:042][849]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-ExplodingRight24557EAC48A6932C65DDC7A0DCA29E15.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Drone-ExplodingRight.uasset'
+[2018.07.31-19.29.52:044][849]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Drone-ExplodingRight.uasset
+[2018.07.31-19.30.03:833][534]LogSavePackage: Save=11.09ms
+[2018.07.31-19.30.03:833][534]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-LeftIdleAnimationD899090F4C27E87FC5E9C6B46E6A384B.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Drone-LeftIdleAnimation.uasset'
+[2018.07.31-19.30.03:836][534]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Drone-LeftIdleAnimation.uasset
+[2018.07.31-19.30.03:869][534]LogSavePackage: Save=11.29ms
+[2018.07.31-19.30.03:869][534]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-MoveLeftAnimation1471B610463A8B99B8DBC9AE145BF006.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Drone-MoveLeftAnimation.uasset'
+[2018.07.31-19.30.03:872][534]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Drone-MoveLeftAnimation.uasset
+[2018.07.31-19.30.03:901][534]LogSavePackage: Save=10.83ms
+[2018.07.31-19.30.03:901][534]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-MoveRightAnimation1D7B5859C4351CF032A305D9688360CA8.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Drone-MoveRightAnimation1.uasset'
+[2018.07.31-19.30.03:903][534]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Drone-MoveRightAnimation1.uasset
+[2018.07.31-19.30.03:925][534]LogSavePackage: Save=9.90ms
+[2018.07.31-19.30.03:926][534]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Drone-RightIdleAnimation10B9BAF244AE59D741DCF4EB31E1768B3.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Drone-RightIdleAnimation1.uasset'
+[2018.07.31-19.30.03:928][534]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Drone-RightIdleAnimation1.uasset
+[2018.07.31-19.30.09:760][859]LogSavePackage: Save=11.39ms
+[2018.07.31-19.30.09:760][859]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Frog-LeftIdleAnimationBDF1639A4542274E0321828B88B4C100.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Frog-LeftIdleAnimation.uasset'
+[2018.07.31-19.30.09:762][859]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Frog-LeftIdleAnimation.uasset
+[2018.07.31-19.30.09:786][859]LogSavePackage: Save=10.23ms
+[2018.07.31-19.30.09:786][859]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Frog-MoveLeftAnimation18B988CA4C1A854843A34488C92ED929.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Frog-MoveLeftAnimation.uasset'
+[2018.07.31-19.30.09:789][859]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Frog-MoveLeftAnimation.uasset
+[2018.07.31-19.30.09:812][859]LogSavePackage: Save=10.79ms
+[2018.07.31-19.30.09:812][859]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Frog-MoveRightAnimation1AF5EBBA741F5C410EE80ABBDB5466FD6.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Frog-MoveRightAnimation1.uasset'
+[2018.07.31-19.30.09:814][859]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Frog-MoveRightAnimation1.uasset
+[2018.07.31-19.30.12:893][ 27]LogSavePackage: Save=12.29ms
+[2018.07.31-19.30.12:893][ 27]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Frog-RightIdleAnimation1015A50984E446BA4714F5CB019BB3236.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Frog-RightIdleAnimation1.uasset'
+[2018.07.31-19.30.12:895][ 27]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Frog-RightIdleAnimation1.uasset
+[2018.07.31-19.30.21:236][516]LogSavePackage: Save=10.12ms
+[2018.07.31-19.30.21:236][516]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Frog-LeftExplodeC1332E3640C671BCA393CDA03E0E592D.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Frog-LeftExplode.uasset'
+[2018.07.31-19.30.21:238][516]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Frog-LeftExplode.uasset
+[2018.07.31-19.30.23:488][640]LogSavePackage: Save=10.02ms
+[2018.07.31-19.30.23:488][640]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Frog-RightExplode83C105444C03CEDBB3FF76A07201B750.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Frog-RightExplode.uasset'
+[2018.07.31-19.30.23:491][640]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Frog-RightExplode.uasset
+[2018.07.31-19.30.29:015][963]LogSlate: Window 'Frog-LeftExplode' being destroyed
+[2018.07.31-19.30.29:021][963]LogSlate: Window 'Frog-LeftExplode' being destroyed
+[2018.07.31-19.30.32:435][101]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.31-19.30.36:167][236]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.31-19.31.23:220][  6]LogSavePackage: Save=8.03ms
+[2018.07.31-19.31.23:220][  6]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Frog-LeftExplodeF8EBD8854B4D127CEF526CA9BF5A7C6A.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Frog-LeftExplode.uasset'
+[2018.07.31-19.31.23:223][  6]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Frog-LeftExplode.uasset
+[2018.07.31-19.31.23:392][ 13]LogSavePackage: Save=4.08ms
+[2018.07.31-19.31.23:392][ 13]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Frog-LeftExplode3BAEB1E444F5B6FA8D72D9B9371D4419.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Frog-LeftExplode.uasset'
+[2018.07.31-19.31.23:393][ 13]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Frog-LeftExplode.uasset
+[2018.07.31-19.31.45:199][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-19.32.14:019][ 20]LogSavePackage: Save=11.26ms
+[2018.07.31-19.32.14:019][ 20]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Frog-LeftExplodeE5E7A9CD4BDCDFFDF735148269451BD1.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Frog-LeftExplode.uasset'
+[2018.07.31-19.32.14:021][ 20]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Frog-LeftExplode.uasset
+[2018.07.31-19.32.14:259][ 31]LogSavePackage: Save=6.05ms
+[2018.07.31-19.32.14:259][ 31]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Frog-LeftExplode6D1C07FD42C1687A19E7B0A4A3384FF0.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Frog-LeftExplode.uasset'
+[2018.07.31-19.32.14:260][ 31]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Frog-LeftExplode.uasset
+[2018.07.31-19.32.15:594][111]LogSlate: Window 'Frog-LeftExplode' being destroyed
+[2018.07.31-19.32.15:599][111]LogSlate: Window 'Frog-LeftExplode' being destroyed
+[2018.07.31-19.32.37:267][379]LogSavePackage: Save=12.70ms
+[2018.07.31-19.32.37:267][379]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Frog-RightExplode5D15A3FE42D3EEEE4981D7BE80025688.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Frog-RightExplode.uasset'
+[2018.07.31-19.32.37:269][379]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Frog-RightExplode.uasset
+[2018.07.31-19.32.37:441][386]LogSavePackage: Save=4.52ms
+[2018.07.31-19.32.37:441][386]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Frog-RightExplode17A66DB14357EA90EFD17F8534C09454.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Frog-RightExplode.uasset'
+[2018.07.31-19.32.37:443][386]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Frog-RightExplode.uasset
+[2018.07.31-19.32.37:595][392]LogSavePackage: Save=4.50ms
+[2018.07.31-19.32.37:595][392]LogSavePackage: Moving 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Saved/Frog-RightExplodeD7E9266B4FB8FC94DF3C35AEE1A7DB0F.tmp' to 'C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Frog-RightExplode.uasset'
+[2018.07.31-19.32.37:596][392]LogSavePackage: Display: Finished SavePackage C:/Users/Luke/Documents/GitHub/VDDUNRL_TEAM2/VDDUNRL_DJMM/Content/2DSideScroller/Sprites/Animations/Frog-RightExplode.uasset
+[2018.07.31-19.32.38:584][451]LogSlate: Window 'Frog-RightExplode' being destroyed
+[2018.07.31-19.32.38:588][451]LogSlate: Window 'Frog-RightExplode' being destroyed
